@@ -1,5 +1,3 @@
-
-
 \# ASEAN Phonebook
 
 
@@ -69,6 +67,40 @@ The ASEAN Phonebook is a C# console application that allows users to store, edit
 \## Repository
 
 https://github.com/benedictsalanga/AseanPhonebook
+
+
+
+\## Testing Results
+
+
+
+The ASEAN Phonebook was tested successfully.
+
+
+
+The following functions were verified:
+
+
+
+1\. Adding a student record.
+
+2\. Editing an existing student's information.
+
+3\. Searching for students by country.
+
+4\. Updating a student's country code from 63 (Philippines) to 66 (Thailand).
+
+5\. Rejecting an invalid country code such as 99.
+
+
+
+\*\*Build Status:\*\* Successful
+
+
+
+\*\*Run Command:\*\*
+
+dotnet run
 
 
 
